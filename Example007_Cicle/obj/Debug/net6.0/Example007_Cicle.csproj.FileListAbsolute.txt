@@ -1,0 +1,15 @@
+C:\Users\LisinSN\Desktop\learn\GitPortable\Data\home\Examples\Example007_Cicle\obj\Debug\net6.0\Example007_Cicle.csproj.AssemblyReference.cache
+C:\Users\LisinSN\Desktop\learn\GitPortable\Data\home\Examples\Example007_Cicle\obj\Debug\net6.0\Example007_Cicle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LisinSN\Desktop\learn\GitPortable\Data\home\Examples\Example007_Cicle\obj\Debug\net6.0\Example007_Cicle.AssemblyInfoInputs.cache
+C:\Users\LisinSN\Desktop\learn\GitPortable\Data\home\Examples\Example007_Cicle\obj\Debug\net6.0\Example007_Cicle.AssemblyInfo.cs
+C:\Users\LisinSN\Desktop\learn\GitPortable\Data\home\Examples\Example007_Cicle\obj\Debug\net6.0\Example007_Cicle.csproj.CoreCompileInputs.cache
+C:\Users\LisinSN\Desktop\learn\GitPortable\Data\home\Examples\Example007_Cicle\bin\Debug\net6.0\Example007_Cicle.exe
+C:\Users\LisinSN\Desktop\learn\GitPortable\Data\home\Examples\Example007_Cicle\bin\Debug\net6.0\Example007_Cicle.deps.json
+C:\Users\LisinSN\Desktop\learn\GitPortable\Data\home\Examples\Example007_Cicle\bin\Debug\net6.0\Example007_Cicle.runtimeconfig.json
+C:\Users\LisinSN\Desktop\learn\GitPortable\Data\home\Examples\Example007_Cicle\bin\Debug\net6.0\Example007_Cicle.dll
+C:\Users\LisinSN\Desktop\learn\GitPortable\Data\home\Examples\Example007_Cicle\bin\Debug\net6.0\Example007_Cicle.pdb
+C:\Users\LisinSN\Desktop\learn\GitPortable\Data\home\Examples\Example007_Cicle\obj\Debug\net6.0\Example007_Cicle.dll
+C:\Users\LisinSN\Desktop\learn\GitPortable\Data\home\Examples\Example007_Cicle\obj\Debug\net6.0\refint\Example007_Cicle.dll
+C:\Users\LisinSN\Desktop\learn\GitPortable\Data\home\Examples\Example007_Cicle\obj\Debug\net6.0\Example007_Cicle.pdb
+C:\Users\LisinSN\Desktop\learn\GitPortable\Data\home\Examples\Example007_Cicle\obj\Debug\net6.0\Example007_Cicle.genruntimeconfig.cache
+C:\Users\LisinSN\Desktop\learn\GitPortable\Data\home\Examples\Example007_Cicle\obj\Debug\net6.0\ref\Example007_Cicle.dll
